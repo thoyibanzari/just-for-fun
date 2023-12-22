@@ -64,16 +64,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1920px-TvOne_2023.svg.png" group-title="TV NASIONAL",TVONE
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZJjyGyt/logo-trans-tv.png" group-title="TV NASIONAL",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZJjyGyt/logo-trans-tv.png" group-title="TV NASIONAL",TRANS TV (2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZJjyGyt/logo-trans-tv.png" group-title="TV NASIONAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/DZJjyGyt/logo-trans-tv.png",TRANS TV (3)
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.postimg.cc/DZJjyGyt/logo-trans-tv.png",TRANS TV (2)
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 
@@ -89,9 +87,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QvTjVbw/Moji-blue.png" tvg-id="RIYAN.0de975fa3ab0b91336412d46a9dde8fa.SHINTA" tvg-name"MOJI" group-title="TV NASIONAL",MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://s.id/1YseN
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QvTjVbw/Moji-blue.png" tvg-id="RIYAN.0de975fa3ab0b91336412d46a9dde8fa.SHINTA" tvg-name"MOJI" group-title="TV NASIONAL",MOJI (2)
-https://bit.ly/3tMoswx
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
