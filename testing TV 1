@@ -1494,10 +1494,6 @@ https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708484_800.m3u8?k=d71d2f83e583d8b991
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMTmtNfs/Vamos-por-Movistar-Plus-2022-logo-svg.png" group-title="Extra Sports",#Vamos
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4922
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMTmtNfs/Vamos-por-Movistar-Plus-2022-logo-svg.png" group-title="Extra Sports",#Vamos (2)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4923
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMTmtNfs/Vamos-por-Movistar-Plus-2022-logo-svg.png" group-title="Extra Sports",#Vamos (3)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4924
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yMgqstB/11-internacional.jpg" group-title="Extra Sports",11 INTERNACIONAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hKd5Dsw/A-sports-hd-Logo.png" group-title="Extra Sports",A Sports
@@ -1509,7 +1505,7 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.postimg.cc/L6qpsScq/Ad-sport-3.png" group-title="Extra Sports",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Extra Sports",Abu Dhabi Sports 4 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Extra Sports",Abu Dhabi Sports 4
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Extra Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg",Abu Dhabi Sports Premium 1
@@ -1586,21 +1582,6 @@ https://webdi.openhd.lol/lb/premium135/index.m3u8?|referer=https://widevine.lice
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzrDNI5.png" group-title="Extra Sports",Arena Premium 3
 https://webdi.openhd.lol/lb/premium139/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="Extra Sports",Arena Sport 1 (2)
-https://webdi.openhd.lol/lb/premium429/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="Extra Sports",Arena Sport 2 (2)
-https://webdi.openhd.lol/lb/premium430/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="Extra Sports",Arena Sport 3 (2)
-https://webdi.openhd.lol/lb/premium431/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="Extra Sports",Arena Sport 4 (2)
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/41393.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="Extra Sports",Arena Sport 5 (2)
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/102552.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="Extra Sports",Arena Sport 1 Hrvatska
 https://webdi.openhd.lol/lb/premium432/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -1638,20 +1619,6 @@ https://webdi.openhd.lol/lb/premium43/index.m3u8?|referer=https://widevine.licen
 
 #EXTINF:-1 group-title="Extra Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115614
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Extra Sports",Astro Cricket (2)
-https://webdi.openhd.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Extra Sports",Astro Supersport 1 (2)
-https://webdi.openhd.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Extra Sports",Astro Supersport 2 (2)
-https://webdi.openhd.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Extra Sports",Astro Supersport 3 (2)
-https://webdi.openhd.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Extra Sports",Astro Supersport 4 (2)
-https://webdi.openhd.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1920px-AXS_TV_logo.svg.png" group-title="Extra Sports",AXS TV
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115339
@@ -1666,167 +1633,6 @@ http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/4587.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="Extra Sports",Benfica TV
 https://webdi.openhd.lol/lb/cdn/premium380/index.m3u8|referer=https://widevine.licenses4.me/&user-agent=REDLINECLIENT
-
-#EXTINF:-1 logo="" group-title="Extra Sports",beIN Sports 4k Premium
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115420
-
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports USA
-http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/1235
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png",beIN Sports 1 Indonesia
-https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Indonesia (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/bskunyak1.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png",beIN Sports 3 Indonesia
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 3 Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/bskunyak2.m3u8
-
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Arab 
-http://1tv1.net:8080/live/01007888688/28464975/15560.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Arab (2)
-http://2111.space:8080/live/hossam1/hossam1/42486.ts
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Arab (3)
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 Arab
-http://2111.space:8080/live/hossam1/hossam1/42487.ts
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 Arab (2)
-http://1tv1.net:8080/live/01007888688/28464975/15559.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 Arab (3)
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 Arab
-http://1tv1.net:8080/live/01007888688/28464975/15558.m3u8
-
-
-#EXTINF:-1 logo="https://i.postimg.cc/xTVFn160/bein-sports-premium-1.png" group-title="Extra Sports",beIN Sports 1 Premium
-http://1tv1.net:8080/live/01007888688/28464975/15562.m3u8
-
-#EXTINF:-1 logo="https://i.postimg.cc/xTVFn160/bein-sports-premium-1.png" group-title="Extra Sports",beIN Sports 1 Premium (2)
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
-#EXTINF:-1 logo="https://i.postimg.cc/xTVFn160/bein-sports-premium-1.png" group-title="Extra Sports",beIN Sports 1 Premium (3)
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1213
-
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 France
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 France (2)
-http://1tv1.net:8080/live/01007888688/28464975/635.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 France (3)
-http://w4.12all.tv:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Thailand
-https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Thailand (2)
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 English
-http://1tv1.net:8080/live/01007888688/28464975/112461.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 English (2)
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Qatar
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/100
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png" group-title="Extra Sports",beIN Sports 1 Qatar (2)
-http://venomtt.com:8000/kdcxxD1U/543545/156462
-
-#EXTINF:-1 logo="https://i.postimg.cc/633xV5ks/bein-sports-premium-2.png" group-title="Extra Sports",beIN Sports 2 Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1212
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 Thailand
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 Thailand (2)
-https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 English
-http://1tv1.net:8080/live/01007888688/28464975/112462.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 France
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 France (2)
-http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/126936.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 France (3)
-http://1tv1.net:8080/live/01007888688/28464975/636.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png" group-title="Extra Sports",beIN Sports 2 France (4)
-http://w4.12all.tv:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg",beIN Sports Haber
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/5322.ts
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/5321.ts
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/G2NVkPPY/Be-IN-Sports.png",beIN Sports 1 Türkiye
-http://1tv1.net:8080/live/01007888688/28464975/93420.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/sgqWCvJm/bein-sports-2.png",beIN Sports 2 Türkiye
-http://1tv1.net:8080/live/01007888688/28464975/93382.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg",beIN Sports 3 Türkiye
-http://1tv1.net:8080/live/01007888688/28464975/93385.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/7ZHD9kJN/Bein-Sports-4.jpg",beIN Sports 4 Türkiye
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/5330.ts
-
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 English
-http://1tv1.net:8080/live/01007888688/28464975/112463.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 Premium
-http://1tv1.net:8080/live/01007888688/28464975/15561.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 Premium (2)
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/69.ts
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 Premium (3)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 France
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 France (2)
-http://1tv1.net:8080/live/01007888688/28464975/637.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 France (3)
-http://w4.12all.tv:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 Thailand
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/gkRrQmJF/Bein-Sports-3.jpg" group-title="Extra Sports",beIN Sports 3 Thailand (2)
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
-
-
-#EXTINF:-1 logo="https://i.postimg.cc/7ZHD9kJN/Bein-Sports-4.jpg" group-title="Extra Sports",beIN Sports 4
-http://1tv1.net:8080/live/01007888688/28464975/15557.m3u8
-#EXTINF:-1 logo="https://i.postimg.cc/7ZHD9kJN/Bein-Sports-4.jpg" group-title="Extra Sports",beIN Sports 4 (2)
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest/scale-to-width-down/200?cb=20200107204133" group-title="Extra Sports",beIN Sports 5
-http://1tv1.net:8080/live/01007888688/28464975/15556.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest/scale-to-width-down/200?cb=20200107204133" group-title="Extra Sports",beIN Sports 5 (2)
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1479
-#EXTINF:-1 logo="https://i.postimg.cc/cLkqc8Ss/beinsport-6.jpg" group-title="Extra Sports",beIN Sports 6
-http://1tv1.net:8080/live/01007888688/28464975/15555.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjcPwnXz/BEIN-SPORT-7.png" group-title="Extra Sports",beIN Sports 7
-http://1tv1.net:8080/live/01007888688/28464975/15720.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.imgur.com/uYcwFSD.png",beIN Sports Xtra 1
-http://1tv1.net:8080/live/01007888688/28464975/165086.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.imgur.com/Q9ACq0T.png",beIN Sports Xtra 2
-http://1tv1.net:8080/live/01007888688/28464975/165087.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.imgur.com/arLTcvt.png",beIN Sports AFC
-http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141859.ts
-http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141866.ts
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.imgur.com/oKbn4Dw.png",beIN Sports AFC 1
-http://1tv1.net:8080/live/01007888688/28464975/165063.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.imgur.com/RI5gIHv.png",beIN Sports AFC 2
-http://1tv1.net:8080/live/01007888688/28464975/165064.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.imgur.com/2i0eHdY.png",beIN Sports AFC 3
-http://1tv1.net:8080/live/01007888688/28464975/165065.m3u8
-
-#EXTINF:-1 logo="https://i.postimg.cc/sx90yyBC/be-IN-SPORTS-XTRA-LOGO.png" group-title="Extra Sports",beIN Sports Xtra
-https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8 
-#EXTINF:-1 logo="https://i.postimg.cc/jdzw3jFS/bein-sport-xtra-espanol-plain.png" group-title="Extra Sports",beIN Sports Xtra Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/sx90yyBC/be-IN-SPORTS-XTRA-LOGO.png",beIN Sports Xtra USA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/jdzw3jFS/bein-sport-xtra-espanol-plain.png",beIN Sports Xtra en Español
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="Extra Sports",beIN Sports 1 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" group-title="Extra Sports",beIN Sports 2 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
-
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/7ZR00G60/bein-Sports-News-ar.png",beIN Sports News
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/16588.ts
 
 #EXTINF:-1 tvg-logo="https://s3.sky.ch/img/moviecover/ch/images/channel/327.png" group-title="Extra Sports",Blue Sport 1
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/88230.ts
@@ -2002,12 +1808,8 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Extra Sports",CCTV 5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Extra Sports",CCTV 5+ (2)
-https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Extra Sports",CCTV 5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Extra Sports",CCTV 5 (2)
-https://live.olelive.com:6443/live/CCTV5HD_ag/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3VvtC4J/claro-sports.png" group-title="Extra Sports",CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTzsSf0M/dunia-games.jpg" group-title="Extra Sports",Dunia Games TV
@@ -2065,12 +1867,8 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601
 http://qqtv.nl:8080/live/norma/12345/20101.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMQG5PvL/ESPN-2.png" group-title="Extra Sports",ESPN 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMQG5PvL/ESPN-2.png" group-title="Extra Sports",ESPN 2 (2)
-http://red.ipfox.org:8080/osama2022/osama2023/49189
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFy1xfNt/ESPN3-Logo.png" group-title="Extra Sports",ESPN 3
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFy1xfNt/ESPN3-Logo.png" group-title="Extra Sports",ESPN 3 ARG
-http://red.ipfox.org:8080/osama2022/osama2023/49187
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKhGqTHK/ESPN4-logo.png" group-title="Extra Sports",ESPN 4
 http://red.ipfox.org:8080/osama2022/osama2023/49190
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffXBqNb/ESPN-Brasil-logo-svg.png" group-title="Extra Sports",ESPN Brazil
@@ -2090,16 +1888,8 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGwnbZm4/Eurosport-Logo-2015-svg.png" group-title="Extra Sports",Eurosport 1
 http://1tv1.net:8080/live/01007888688/28464975/16127.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGwnbZm4/Eurosport-Logo-2015-svg.png" group-title="Extra Sports",Eurosport 1 (2)
-http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGwnbZm4/Eurosport-Logo-2015-svg.png" group-title="Extra Sports",Eurosport 1 (3)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/6024
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkyKqmPH/Eurosport-2-Logo.jpg" group-title="Extra Sports",Eurosport 2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkyKqmPH/Eurosport-2-Logo.jpg" group-title="Extra Sports",Eurosport 2 (2)
-http://1tv1.net:8080/live/01007888688/28464975/16126.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkyKqmPH/Eurosport-2-Logo.jpg" group-title="Extra Sports",Eurosport 2 (3)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/6026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgnwthTm/Facebook-Watch-svg.png" group-title="Extra Sports",FACEBOOK WATCH
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -2457,12 +2247,8 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT121k6B/Movistar-Deportes-svg.png" group-title="Extra Sports",Movistar Deportes HD
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4928
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT121k6B/Movistar-Deportes-svg.png" group-title="Extra Sports",Movistar Deportes
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4929
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT121k6B/Movistar-Deportes-svg.png" group-title="Extra Sports",Movistar Deportes FHD
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4927
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4928
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1GWKzNK/NFL.png" group-title="Extra Sports",NFL
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115742
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xPdBp79/nile-sport.jpg" group-title="Extra Sports",Nile Sport
@@ -3183,37 +2969,10 @@ http://iptvtree.net:8080/ace2524d/15a571c413/163132
 #EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/vBWKg0LN/SPOTV.png",SPOTV
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/vBWKg0LN/SPOTV.png",SPOTV (2)
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/vBWKg0LN/SPOTV.png",SPOTV (3)
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115682
-
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/vBWKg0LN/SPOTV.png",SPOTV (4)
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652233078~exp=9007200906974069~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba5e42a00f270a8fcb34a7e08a46d853402bb14701ab7a52463b0b351bbfd01c
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png",SPOTV 2 (2)
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png",SPOTV 2 (3)
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115433
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115686
-
-#EXTINF:-1 group-title="Extra Sports" tvg-logo="https://i.postimg.cc/1zBCC9GQ/spotvnow-logo-white-1-1024x320.jpg",SPOTV NOW
-https://bcovlive-a.akamaihd.net/f8f2c829bce84ee09bcafe7cc610452b/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/7YNf8xz7/SPOTV-PRIME.png" group-title="Extra Sports",SPOTV PRIME
-http://54.180.125.159:9981/stream/channelid/2124909055?profile=ducphu
-#EXTINF:0 group-title="Extra Sports",SPOTV GOLF
-http://54.180.125.159:9981/stream/channelid/2059495357?profile=ducphu
-#EXTINF:0 tvg-logo="https://i.postimg.cc/fRwSJ3sB/SPOTV-ON.png" group-title="Extra Sports",SPOTV ON
-http://54.180.125.159:9981/stream/channelid/711882659?profile=ducphu
-#EXTINF:0 tvg-logo="https://i.postimg.cc/fRwSJ3sB/SPOTV-ON.png" group-title="Extra Sports",SPOTV ON 2
-http://54.180.125.159:9981/stream/channelid/609106464?profile=ducphu
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMJXSz6G/Sporting-TV.png" group-title="Extra Sports",Sporting TV
 http://red.ipfox.org:8080/osama2022/osama2023/49361
@@ -3258,18 +3017,11 @@ http://146.59.19.1:80/5030/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Extra Sports",TRING SPORT 3 🇦🇱
 http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/397
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj9VxgzP/Tv3-lt-2019.png" group-title="Extra Sports",TV3 LT
 http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/71645/hls/pl.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Extra Sports",CANAL CHINO 4 魅力足球
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Extra Sports",CANAL CHINO 5 新视觉 🇨🇳
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Xjktfn/TRT-Spor-logo-2022-svg.png" group-title="Extra Sports",TRT SPOR
 http://135.125.234.9:8081/trtspor/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRmN4Q28/A-Spor-logosu.png" group-title="Extra Sports",A SPOR 
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
@@ -3340,55 +3092,21 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Extra Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJi7T3pVW1O_D2_PYc_A5tbia-hCBwMGucg&usqp=CAU",ZQTV SPORT
 https://six.zqprem.com/zqfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Extra Sports",Ziggo Sport Docu
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54475.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Extra Sports",Ziggo Sport Docu
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54464.ts
-
 #EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-Ziggo-Sport-Extra.png" group-title="Extra Sports",Ziggo Sport Extra
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54463.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFGh92p.png" group-title="Extra Sports",Ziggo Sport Golf
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54466.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TFGh92p.png" group-title="Extra Sports",Ziggo Sport Golf (2)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54477.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="Extra Sports",Ziggo Sport Racing
 https://webdi.openhd.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="Extra Sports",Ziggo Sport Racing (2)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54465.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="Extra Sports",Ziggo Sport Racing (3)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54478.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="Extra Sports",Ziggo Sport Select
 https://webdi.openhd.lol/lb/premium393/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="Extra Sports",Ziggo Sport Select (2)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54376.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="Extra Sports",Ziggo Sport Select (3)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54467.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="Extra Sports",Ziggo Sport Select (4)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54479.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="Extra Sports",Ziggo Sport Voetbal
 https://webdi.openhd.lol/lb/premium398/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="Extra Sports",Ziggo Sport Voetbal (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://matsugi.000webhostapp.com/heroku-clearkey-hex-base64-json-main/web/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c&key=e06339c46258a695fc8a2e8bfb394b6a
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="Extra Sports",Ziggo Sport Voetbal (3)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54375.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="Extra Sports",Ziggo Sport Voetbal (4)
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/54468.ts
 
 
 
@@ -6115,7 +5833,7 @@ http://146.59.19.1:80/5027/index.m3u8
 #EXTINF:-1 group-title="MALADEWA" tvg-logo="https://bit.ly/3Ccm56A",Raajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1920px-TNT_Sports_%282023%29.svg.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6123,31 +5841,24 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 #https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
 http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1920px-TNT_Sports_%282023%29.svg.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
 http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1920px-TNT_Sports_%282023%29.svg.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
 http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png", tvg-id="ksport1hd" group-title="SPORT AUTO", TNT Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
 
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SPORT 1", ART SPORT 1 AL
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=65110_&extension=ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SPORT 1", ART SPORT 2 AL
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=65111_&extension=ts    
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SPORT 1", ART SPORT 3 AL
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:35:F7:D5&stream=65112_&extension=ts
