@@ -22,6 +22,10 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63930
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 5 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63932
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63933
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/64874
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
@@ -54,13 +58,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrsW1htP/1920px-SCTV-Logo-svg.png" group-title="NASIONAL",SCTV
-http://103.166.27.2:8112/play/a015/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",INDOSIAR
-http://103.166.27.2:8112/play/a016/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -95,8 +98,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QvTjVbw/Moji-blue.png" tvg-id="RIYAN.0de975fa3ab0b91336412d46a9dde8fa.SHINTA" tvg-name"MOJI" group-title="NASIONAL",MOJI
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://s.id/1YseN
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
