@@ -23,7 +23,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 5 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63932
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD 
+EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="NASIONAL", MNCTV HD 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
