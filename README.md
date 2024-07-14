@@ -2257,6 +2257,26 @@ http://tv.soccerplus.link:8000/julia35a/anticona34/868
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 1 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 2 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 2 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63929 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 3" tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 3 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63930 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 4" tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 4 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 5 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 5 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63932
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 1 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304099
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 2 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304098
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 3 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304097
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 4 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304096
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 5 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304095
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 6 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304094
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 7 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304093 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports PL 1 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304467
+
+
 #EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/05/film-laroy-texas-2024-lk21-d21.jpg.webp" group-title="VOD 2024",LaRoy, Texas (2024)
 https://stream.hownetwork.xyz/xxx/laroy-texas-2024-webdl_X_c0ec5d99.480/22/480.m3u8
 
@@ -2340,7 +2360,6 @@ https://stream.hownetwork.xyz/xxx/double-engine-2024-webdl_X_94cb8ace/21/480.m3u
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/04/film-the-holdovers-2023-lk21-d21.jpg.webp" group-title="VOD 2024",The Holdovers 2024
 https://stream.hownetwork.xyz/xxx/the-holdovers-2023-bluray_X_97ac5f65/21/480.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg" group-title="Optus Sport",Optus Sport 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
