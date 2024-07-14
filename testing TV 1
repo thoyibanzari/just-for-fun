@@ -12,6 +12,16 @@
 #EXTM3U x-url-tvg="http://epg.streamstv.me/epg/guide-india.xml"
 #EXTM3U x-url-tvg="https://iptvx.one/epg/epg.xml"
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 1 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 2 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 2 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63929 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 3" tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 3 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63930
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 4" tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 4 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931 
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 5 " tvg-logo="http://2hubs.ddns.net:25461/images/198647202eb35a91a3410810fd8d4f01.png" group-title="SPORTS",Optus Sport 5 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63932
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
