@@ -798,10 +798,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",Aniplus
 http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",Aniplus (2)
-http://rr1.dens.tv/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",Aniplus (3)
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115609
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1651,9 +1648,9 @@ http://51.79.82.208:16058
 #EXTINF:-1 tvg-id="Astro Arena 2" tvg-name="Astro Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png" group-title="SPORTS",Astro Arena 2
 http://iptvtree.net:8080/ace2524d/15a571c413/287793
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8I42n.png",Astro Supersport 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport 1
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115615
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8IkG1.png",Astro Supersport 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",Astro Supersport 2
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115616
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8IbgI.png",Astro Supersport 3
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115617
@@ -2118,12 +2115,8 @@ http://callofliberty.fr/stream/LEQUIPE/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png",L'Equipe (2)
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/6047
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqC69wNP/La-Liga-por-Movistar-Plus-2022-logo-svg.png" group-title="SPORTS",Laliga TV (720)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqC69wNP/La-Liga-por-Movistar-Plus-2022-logo-svg.png" group-title="SPORTS",Laliga TV
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4917
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqC69wNP/La-Liga-por-Movistar-Plus-2022-logo-svg.png" group-title="SPORTS",Laliga TV (480)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4918
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqC69wNP/La-Liga-por-Movistar-Plus-2022-logo-svg.png" group-title="SPORTS",Laliga TV (1080)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4916
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/vBX18WS1/LFC-TV-logo.png",LFC TV
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
@@ -2135,10 +2128,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNH3LxBB/Liga-de-Campeones-por-Movistar-Plus-2022-logo-svg.png" group-title="SPORTS",Liga de Campeones
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4953
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNH3LxBB/Liga-de-Campeones-por-Movistar-Plus-2022-logo-svg.png" group-title="SPORTS",Liga de Campeones (2)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4954
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNH3LxBB/Liga-de-Campeones-por-Movistar-Plus-2022-logo-svg.png" group-title="SPORTS",Liga de Campeones (3)
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4957
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png",Look Sports Rumania
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJtB4mG3/Look-Sport-HD-2020.png" group-title="SPORTS",Look Sport +
@@ -2521,46 +2510,20 @@ https://webdi.openhd.lol/lb/premium418/index.m3u8?|referer=https://widevine.lice
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="SPORTS",Supersport Variety 4 Africa
 https://webdi.openhd.lol/lb/premium419/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1ztfBkfq/download-26.png" group-title="SPORTS",Sony Six
 http://watchindia.net:8880/live/vvv/vvv/2144.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1ztfBkfq/download-26.png" group-title="SPORTS",Sony Six (2)
-http://175.107.244.52:4455/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="SPORTS",Sony Six (3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYr8PzZT/download-27.png" group-title="SPORTS",SONY ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="SPORTS",Sony Ten 1
 http://175.107.244.52:4455/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7aH1f2o.png" group-title="SPORTS",Sony Ten 1 (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66k17hL0/Sony-Ten-2.png" group-title="SPORTS",Sony Ten 2
 http://175.107.244.52:4455/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HBvcO3.png" group-title="SPORTS",Sony Ten 2 (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135" group-title="SPORTS",Sony Ten 3
 http://103.147.87.13:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jv.png" group-title="SPORTS",Sony Ten 3 (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkQZXjRD/Spor-TV-2021.png" group-title="SPORTS",Sportv
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
@@ -3021,9 +2984,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMJXSz6G/Sporting-TV.png" group-title="SPORTS",Sporting TV
 http://red.ipfox.org:8080/osama2022/osama2023/49361
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="SPORTS",sportdigital
-https://webdi.openhd.lol/lb/premium571/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png",Sport Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
