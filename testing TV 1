@@ -19,7 +19,7 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 1 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928 
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 2 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63929 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 3 
@@ -1273,7 +1273,7 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="NHKWorldJapan.Id" tvg-logo="https://cdn.ksa.my.id/nhkworld.png" group-title="Entertainment",NHK World TV
+#EXTINF:0 tvg-id="NHKWorldJapan.Id" tvg-logo="https://cdn.ksa.my.id/nhkworld.png" group-title="Entertainment",NHK SINGAPURA
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1996,11 +1996,8 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP8BDT9S/FIGHT-SPORTS.png" group-title="SPORTS",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP8BDT9S/FIGHT-SPORTS.png" group-title="SPORTS",Fight Sports (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://iptvid.my.id/hmm/fightsport.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFKzTLTc/FTF-SPORTS.png" group-title="SPORTS",FTF SPORT(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFKzTLTc/FTF-SPORTS.png" group-title="SPORTS",FTF SPORT
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65ChrTzT/galatasaray-tv.png" group-title="SPORTS",GalatasarayTV HD
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist-b2328000_sltur.m3u8
@@ -2016,8 +2013,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS234&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRLp605w/GOL-PLAY.png" group-title="SPORTS",GOL PLAY HD
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4925
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRLp605w/GOL-PLAY.png" group-title="SPORTS",GOL PLAY
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4926
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj2PTspz/Gol-TV-logo-svg.png" group-title="SPORTS",GOL televisión USA
 http://qqtv.nl:8080/live/norma/12345/20286.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VNZ9ftsZ/Golf-Channel-Logo.png",GOLF Channel
@@ -2033,6 +2028,39 @@ http://iptvid.my.id/hmm/horisonsport.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/D1nuT7j.png",Infosport+
 http://iptvtree.net:8080/ace2524d/15a571c413/1190
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="SPORTS",Infinity+ 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="SPORTS",Infinity+ 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="SPORTS",Infinity+ 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="SPORTS",Infinity+ 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="SPORTS",Infinity+ 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="SPORTS",Infinity+ 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.bing.com/th?id=Aede1d9cb53ddf56a99cc534bff1032f3&w=148&h=148&c=7&o=6&oif=webp&dpr=1.25&pid=SANGAM",Inter Milan TV
@@ -4619,6 +4647,40 @@ http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" group-title="SINGAPURA",Channel NewsAsia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="" tvg-logo="https://i.ibb.co/dbRJFB3/mlive1.png",M LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="" tvg-logo="https://i.ibb.co/58c6bft/mliveplus1.png",M LIVE+ 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tglmp04.akamaized.net/out/v1/88f6a7022fd54e759ee6d09f5117ab62/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="" tvg-logo="https://i.ibb.co/9GmV2fF/mlive2.png",M LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="" tvg-logo="https://i.ibb.co/3FhLthP/mlive5.png",M LIVE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="" tvg-logo="https://i.ibb.co/xSQQ81r/mlive6.png",M LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="" tvg-logo="https://i.ibb.co/J7nxg09/mwspl01.png",M LIVE SPL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="" tvg-logo="https://i.ibb.co/vHM6GF8/mwspl02.png",M LIVE SPL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Altyn_Asyr.png/revision/latest?cb=20211225160159" group-title="TURKMENISTAN",Altyn Asyr TV
 https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
@@ -4887,6 +4949,12 @@ https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="NEPAL",AP1 HD
 http://182.50.65.213:8888/udp/239.239.0.11:3001
 
+##########################
+######### I T A L I A ##########
+##########################
+=====================================================================
+```````` # I T A L I A #````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wp8H1c7n/Rai-1-Logo-2016-svg.png" group-title="ITALIA",RAI 1
 http://red.ipfox.org:8080/osama2022/osama2023/49201
@@ -4901,7 +4969,51 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSnDp67x/12-tv-parma.jpg" group-title="ITALIA",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
+##########################
+######### E N G L A N D ##########
+##########################
+=====================================================================
+```````` # E N G L A N D #````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1024px-Flag_of_England.svg.png"
 
+#EXTINF:-1 group-title="ENGLAND" tvg-id="ITV1" tvg-logo="", ITV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
+
+#EXTINF:-1 group-title="ENGLAND" tvg-id="ITV2" tvg-logo="", ITV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf2957d9327e42eebde873dcb48a7b7f:4ef5e263bbaf80d8daa9593d420d33d0
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd
+
+#EXTINF:-1 group-title="ENGLAND" tvg-id="ITV3" tvg-logo="", ITV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=272e9f1e2c83412cab74056d9d53bab3:8d1e6569c78dd567db5f69c84e776285
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd
+
+#EXTINF:-1 group-title="ENGLAND" tvg-id="ITV4" tvg-logo="", ITV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b169fb2c3214e429b66eb2e19fcafdf:90a98753d8f41ad08906243230975ff1
+https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
+
+##########################
+######### A L B A N I A ##########
+##########################
+=====================================================================
+```````` # A L B A N I A #````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/800px-Flag_of_Albania.svg.png"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rtk1_2013.png" group-title="ALBANIA",RTK 1
 http://146.59.19.1:80/5002/index.m3u8
@@ -5009,8 +5121,15 @@ http://146.59.19.1:80/5024/index.m3u8
 http://146.59.19.1:80/5027/index.m3u8
 
 
+##########################
+######### M A L A D E W A ##########
+##########################
+=====================================================================
+```````` # M A L A D E W A #````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1024px-Flag_of_Maldives.svg.png"
 #EXTINF:-1 group-title="MALADEWA" tvg-logo="https://bit.ly/3Ccm56A",Raajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
+
 
 ##########################
 ######### U S A ##########
@@ -5019,7 +5138,7 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 ```````` # U S A #````````
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/800px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png"
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/NBCUniversal_Peacock_Logo.svg", PEACOCK TV
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/250px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
