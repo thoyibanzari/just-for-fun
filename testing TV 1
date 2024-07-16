@@ -12,6 +12,12 @@
 #EXTM3U x-url-tvg="http://epg.streamstv.me/epg/guide-india.xml"
 #EXTM3U x-url-tvg="https://iptvx.one/epg/epg.xml"
 
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/c/c0/Sportitalia_Logo.JPG" group-title="ITALIA",SPORT ITALIA PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 1 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 2 
