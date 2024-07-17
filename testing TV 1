@@ -21,6 +21,11 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://pull.niur.live/live/stream-278654_lhd.m3u8?txSecret=04962ce5a71fe9c3163e8e31c27dd5b4&txTime=66981102
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS FILIPINA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://live.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001721220802-0-0-2c86fc88fe38eac2a44a0e2780d46236
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 1 
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 2 
