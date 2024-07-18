@@ -2223,35 +2223,35 @@ http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115702
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VNZ9ftsZ/Golf-Channel-Logo.png",GOLF Channel +
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115698
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Go3_Sport_1_H.svg/revision/latest?cb=20230810131634" group-title="SPORTS", GO3 Sport 1 🇱🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Go3_Sport_1_H.svg/revision/latest?cb=20230810131634.png" group-title="SPORTS", GO3 Sport 1 🇱🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Go3_Sport_2_H.svg/revision/latest?cb=20230810131642" group-title="SPORTS", GO3 Sport 2 🇱🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Go3_Sport_2_H.svg/revision/latest?cb=20230810131642.png" group-title="SPORTS", GO3 Sport 2 🇱🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Go3_Sport_3_H.svg/revision/latest?cb=20230810131649" group-title="SPORTS", GO3 Sport 3 🇱🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Go3_Sport_3_H.svg/revision/latest?cb=20230810131649.png" group-title="SPORTS", GO3 Sport 3 🇱🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Go3_Sport_Open_H.svg/revision/latest?cb=20230810131627" group-title="SPORTS", GO3 Sport OPEN 🇱🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Go3_Sport_Open_H.svg/revision/latest?cb=20230810131627.png" group-title="SPORTS", GO3 Sport OPEN 🇱🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Go3_Sport_1_H.svg/revision/latest?cb=20230810131634" group-title="SPORTS", GO3 Sport 1 🇱🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Go3_Sport_1_H.svg/revision/latest?cb=20230810131634.png" group-title="SPORTS", GO3 Sport 1 🇱🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
@@ -2696,7 +2696,29 @@ http://103.49.40.100:33009/POLSATSPORTNEWSHD
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjcVnVRp/Qazsport-Logo.png" group-title="SPORTS",Qazsport
-http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Q_Arena_2023.svg/revision/latest?cb=20230921192200.png" group-title="SPORTS",Q ARENA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Q_League_2023.svg/revision/latest?cb=20230921192739.png" group-title="SPORTS",Q LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+
+#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Rtlsporthd.png/revision/latest?cb=20151210181126" group-title="SPORTS",RTL SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Rtlsporthd.png/revision/latest?cb=20151210181126" group-title="SPORTS",RTL SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/d81P4qV.jpg" ,Racing TV
 https://webdi.openhd.lol/lb/premium555/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk4wP9TY/Rai-Sport-HD-Logo-2017-svg.png" group-title="SPORTS",Rai Sport + HD
@@ -2948,8 +2970,12 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4948
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4947
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqT4jJfP/RTSH-SPORT-svg.png" group-title="SPORTS",RTSH Sport
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/65386.ts
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
+https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
 
 http://109.104.129.195:8001/play/s25
 #EXTINF:-1 logo="https://i.postimg.cc/HszQgjLk/mola.png" group-title="SPORTS",Mola Sports
