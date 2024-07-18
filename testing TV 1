@@ -13,17 +13,6 @@
 #EXTM3U x-url-tvg="https://iptvx.one/epg/epg.xml"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/c/c0/Sportitalia_Logo.JPG" group-title="ITALIA",SPORT ITALIA PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS FILIPINA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-278654_lhd.m3u8?txSecret=04962ce5a71fe9c3163e8e31c27dd5b4&txTime=66981102
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS FILIPINA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://live.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001721220802-0-0-2c86fc88fe38eac2a44a0e2780d46236
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 1 
@@ -5012,6 +5001,13 @@ https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/yaslyk.png" group-title="TURKMENISTAN",Yaslyk TV
 https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 
+##########################
+######### A Z E R B A I J A N ##########
+##########################
+=====================================================================
+```````` # A Z E R B A I J A N #````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Azerbaijan_%28Pantone%29.svg/1280px-Flag_of_Azerbaijan_%28Pantone%29.svg.png"
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAIJAN",ARB
 http://85.132.81.184:8080/arb/live/index.m3u8
@@ -5028,6 +5024,12 @@ http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3b/%C4%B0nterAz_TV_%28loqo%29.jpg" group-title="AZERBAIJAN",InterAz TV
 http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
 
+##########################
+######### T U R K I ##########
+##########################
+=====================================================================
+```````` # T U R K I #````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1024px-Flag_of_Turkey.svg.png"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TURKI",360 TV (Skytürk)
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
@@ -5232,6 +5234,13 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2018/06/YOL-TV.jpg" group-title="TURKI",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 
+##########################
+######### M Y A N M A R ##########
+##########################
+=====================================================================
+```````` # M Y A N M A R #````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1024px-Flag_of_Myanmar.svg.png"
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvtSJF3d/Mahar-bawdi-TV.webp" group-title="MYANMAR",MAHARBAWDI
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjnqD9CL/MRTV-4.png" group-title="MYANMAR",MRTV4
@@ -5273,6 +5282,10 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSnDp67x/12-tv-parma.jpg" group-title="ITALIA",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/c/c0/Sportitalia_Logo.JPG" group-title="ITALIA",SPORT ITALIA PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8
 
 ##########################
 ######### E N G L A N D ##########
