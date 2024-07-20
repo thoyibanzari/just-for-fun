@@ -12,6 +12,13 @@
 #EXTM3U x-url-tvg="http://epg.streamstv.me/epg/guide-india.xml"
 #EXTM3U x-url-tvg="https://iptvx.one/epg/epg.xml"
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://live.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001721478642-0-0-9275a570dc67414961157399d5c01d44
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://live.vbfast.xyz/c45a38bfd36f1ea7fe786ff504e34021/1721522028989/r8ztat6/r8ztat6@720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 1 
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
