@@ -14,23 +14,13 @@
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://live.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001721478642-0-0-9275a570dc67414961157399d5c01d44
+https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=935b69d8f7dc0e5f65007d4cdfaf4abb&txTime=66a543ff
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 2
-https://pull.niur.live/live/stream-278654_lhd.flv?txSecret=c050b4863e5738db982839f81f1270fa&txTime=669c02ef
+https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1722088939-0-0-c37f559685cd1b7a85b88b63a140336f
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://copa1.b-cdn.net/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 4
-https://copa1.b-cdn.net/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 5
-https://cfapi.livesports.mobi/gate92df3e10a06092d0fe728bed31/api/ftb/detail/changes?matchId=2606853
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT",INDONESIA VS KAMBOJA 6
-https://pull.niur.live/live/stream-278654_lhd.m3u8?txSecret=ce1b4a6c0d73e469707969d6ce1e4f3b&txTime=669c1717
+https://pull.niur.live/live/stream-278654_lhd.m3u8?txSecret=34743ba8f960dbc5ac4ba432ec2315a8&txTime=66a54477
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - Optus Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="SPORTS",Optus Sport 1 
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
